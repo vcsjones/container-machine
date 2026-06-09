@@ -1,4 +1,4 @@
-name: .NET Runtime Image Build
+name: Container Machine Image Build
 
 on:
   workflow_dispatch:
